@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2d871cb-eecc-4dac-bd9e-1f24587f0ccb",
+    "Name": "PanfilenkoAppealFile",
+    "ModifiedOnUtc": "\/Date(1655391764000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Обращение",
+    "DependsOn": []
+  }
+}

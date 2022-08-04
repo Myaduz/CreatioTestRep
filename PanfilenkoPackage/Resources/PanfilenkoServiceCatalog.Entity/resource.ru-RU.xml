@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Каталог услуг" />
+			<Item Name="Columns.PanfilenkoCategory.Caption" Value="Категория" />
+			<Item Name="Columns.PanfilenkoDelete2.Caption" Value="-" />
+			<Item Name="Columns.PanfilenkoInitiator.Caption" Value="Инициатор" />
+			<Item Name="Columns.PanfilenkoName.Caption" Value="Название" />
+			<Item Name="Columns.PanfilenkoNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.PanfilenkoOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.PanfilenkoStatusesOfServise.Caption" Value="Состояние" />
+			<Item Name="Columns.PanfilenkoString1.Caption" Value="Описание услуги" />
+			<Item Name="Columns.PanfilenkoTimeToComplete.Caption" Value="Время разрешения" />
+			<Item Name="Columns.PanfilenkoUnitTimeToComplete.Caption" Value="Единица времени разрешения" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca7fac5b-98cf-452b-a5c1-e26c05baacb5",
+    "Name": "PanfilenkoUnitOfTimeToCompleteHandbook",
+    "ModifiedOnUtc": "\/Date(1655400319000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Единицы времени разрешения",
+    "DependsOn": []
+  }
+}

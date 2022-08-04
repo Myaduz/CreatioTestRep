@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0bf2f66e-754a-4a66-9cf8-fc58c0c11deb",
+    "Name": "PanfilenkoProcess_36ac73d",
+    "ModifiedOnUtc": "\/Date(1656038398000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Указать время разрешения заявки",
+    "DependsOn": []
+  }
+}

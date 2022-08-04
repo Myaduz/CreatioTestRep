@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef69da52-ef9c-40c7-86d1-0056c65feecb",
+    "Name": "PanfilenkoProcessTestButton",
+    "ModifiedOnUtc": "\/Date(1658082824000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Тестовый бп",
+    "DependsOn": []
+  }
+}

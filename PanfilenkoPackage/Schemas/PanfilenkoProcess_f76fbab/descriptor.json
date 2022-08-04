@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d050af2c-7bac-48ab-ae32-3f8e79fdc94d",
+    "Name": "PanfilenkoProcess_f76fbab",
+    "ModifiedOnUtc": "\/Date(1657476573000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Генерация номера обращения",
+    "DependsOn": []
+  }
+}

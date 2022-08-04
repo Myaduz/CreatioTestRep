@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "231947c3-a44d-420e-a54c-680caac3ad14",
+    "Name": "PanfilenkoServiceCategories",
+    "ModifiedOnUtc": "\/Date(1655400322000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Категории каталога услуг",
+    "DependsOn": []
+  }
+}

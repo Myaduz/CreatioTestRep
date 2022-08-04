@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "58c00aa1-ba12-4b7d-9f6f-7874701f0210",
+    "Name": "PanfilenkoProcess_d98d082",
+    "ModifiedOnUtc": "\/Date(1657483920000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Указание категории билетов ",
+    "DependsOn": []
+  }
+}

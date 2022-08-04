@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e664940c-401f-4824-90ad-9d6e7d55c3e7",
+    "Name": "PanfilenkoProcess_5dab9c2",
+    "ModifiedOnUtc": "\/Date(1657103050000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 1",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Обращение" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Заявитель" />
+			<Item Name="Columns.PanfilenkoAppealCategory.Caption" Value="Услуга" />
+			<Item Name="Columns.PanfilenkoAppealMostExpensiveTicket.Caption" Value="Самый дорогой билет в заявке" />
+			<Item Name="Columns.PanfilenkoAppealResolutionTime.Caption" Value="Время разрешения" />
+			<Item Name="Columns.PanfilenkoAppealResolutionTimeUnit.Caption" Value="Единица времени разрешения" />
+			<Item Name="Columns.PanfilenkoAppealServiceMain.Caption" Value="Услуга" />
+			<Item Name="Columns.PanfilenkoAppealTest.Caption" Value="Name" />
+			<Item Name="Columns.PanfilenkoAppealTotalAmount.Caption" Value="Общая сумма по заявке" />
+			<Item Name="Columns.PanfilenkoComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.PanfilenkoDateOfCreation.Caption" Value="Дата создания" />
+			<Item Name="Columns.PanfilenkoDateOfStart.Caption" Value="Дата начала" />
+			<Item Name="Columns.PanfilenkoInitiator.Caption" Value="Инициатор" />
+			<Item Name="Columns.PanfilenkoInteger1.Caption" Value="Номер" />
+			<Item Name="Columns.PanfilenkoNotes.Caption" Value="Notes" />
+			<Item Name="Columns.PanfilenkoResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.PanfilenkoStatus.Caption" Value="Состояние" />
+			<Item Name="Columns.PanfilenkoTicketAverageCost.Caption" Value="Средняя стоимость билета" />
+			<Item Name="Columns.PanfilenkoTopic.Caption" Value="Тема" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

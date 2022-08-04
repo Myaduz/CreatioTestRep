@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "18f8300e-4198-49dc-850f-40165f814f96",
+    "Name": "PanfilenkoCase_e5fb8a9",
+    "ModifiedOnUtc": "\/Date(1657105339000)\/",
+    "Parent": {
+      "UId": "3e184593-b39a-40e8-ae28-e3e7147681c6",
+      "Name": "PanfilenkoCase_97a5b56"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Жизненный цикл обращения",
+    "DependsOn": []
+  }
+}

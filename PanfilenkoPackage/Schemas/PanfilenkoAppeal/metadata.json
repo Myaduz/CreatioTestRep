@@ -1,0 +1,207 @@
+= MetaData.Schema.UId "0db2ebc2-7bee-4feb-a720-84da68749111"
+= MetaData.Schema.A2 "PanfilenkoAppeal"
+= MetaData.Schema.A5 "300fd968-cde2-49db-a6aa-8ec8dc2d92c6"
+= MetaData.Schema.B6 "8aea132e-4f91-2f5b-662b-303a1f814347"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "86ff606c-ef8d-45f6-b612-fbed3bef0079"
+= MetaData.Schema.EG1.A2 "PanfilenkoAppealEventsProcess"
+= MetaData.Schema.EG1.A5 "300fd968-cde2-49db-a6aa-8ec8dc2d92c6"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D15 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "2957b02f-110b-429b-9cb6-5b9c650e6c4f"
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E8
++ MetaData.Schema.D2 {
+  "UId": "2957b02f-110b-429b-9cb6-5b9c650e6c4f",
+  "A2": "PanfilenkoAppealTest",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "0f517a8a-e5f5-421d-a91c-8637cc3c6776",
+  "A2": "PanfilenkoNotes",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "fbe7473e-3727-4219-9a1a-e10e85bc2910",
+  "A2": "PanfilenkoDateOfCreation",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "a098dbab-7e22-4913-bbab-2144540c1a37",
+  "A2": "PanfilenkoDateOfStart",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "1fd16866-599d-4973-b491-654f49db8fa5",
+  "A2": "PanfilenkoInteger1",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "c8ced3af-a261-4c3f-bd08-00a41f94cc8a",
+  "A2": "PanfilenkoTopic",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "a221a462-0225-4a64-81a1-2e36bd688f4c",
+  "A2": "PanfilenkoResponsible",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "PanfilenkoResponsibleId",
+  "E18": "PanfilenkoResponsibleName"
+}
++ MetaData.Schema.D2 {
+  "UId": "77bc7cd6-4bcb-47b7-890f-53fd4f3dcb76",
+  "A2": "PanfilenkoInitiator",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "PanfilenkoInitiatorId",
+  "E18": "PanfilenkoInitiatorName"
+}
++ MetaData.Schema.D2 {
+  "UId": "9fa14f90-0918-441f-89aa-1ea84976a5a5",
+  "A2": "PanfilenkoStatus",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "1001b03e-bd5e-486f-9332-62936da96575",
+  "E6": true,
+  "E20": true,
+  "E17": "PanfilenkoStatusId",
+  "E18": "PanfilenkoStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "4e84e403-9225-46bf-81e6-0aff45b9d0cd",
+  "A2": "PanfilenkoComment",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "cc788ba7-2c47-44f3-a985-be95a13c9012",
+  "A2": "PanfilenkoAppealCategory",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "231947c3-a44d-420e-a54c-680caac3ad14",
+  "E6": true,
+  "E20": true,
+  "E17": "PanfilenkoAppealCategoryId",
+  "E18": "PanfilenkoAppealCategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "48c22edd-bccb-4a9e-bf1a-bbbf9da03319",
+  "A2": "PanfilenkoAppealResolutionTime",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "19b9ef8f-d091-4826-8ab2-10cacec1123a",
+  "A2": "PanfilenkoAppealResolutionTimeUnit",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "ca7fac5b-98cf-452b-a5c1-e26c05baacb5",
+  "E6": true,
+  "E17": "PanfilenkoAppealResolutionTimeUnitId",
+  "E18": "PanfilenkoAppealResolutionTimeUnitName"
+}
++ MetaData.Schema.D2 {
+  "UId": "56539fae-00ee-46c7-9f9e-4bb0caae821e",
+  "A2": "PanfilenkoAppealTotalAmount",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "643a6ee9-9a38-474d-8dd4-d64fc68a98c2",
+  "A2": "PanfilenkoAppealMostExpensiveTicket",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "6ba82b41-c38b-49d8-849f-af26644c11ed",
+  "A2": "PanfilenkoTicketAverageCost",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "4c75a95a-38d9-44bf-905a-cbd12aea3e19",
+  "A2": "PanfilenkoAppealServiceMain",
+  "A3": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "a737116b-2d4a-453b-a667-a0a1b22148be",
+  "E6": true,
+  "E20": true,
+  "E17": "PanfilenkoAppealServiceMainId",
+  "E18": "PanfilenkoAppealServiceMainPanfilenkoName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","2957b02f-110b-429b-9cb6-5b9c650e6c4f","0f517a8a-e5f5-421d-a91c-8637cc3c6776","fbe7473e-3727-4219-9a1a-e10e85bc2910","a098dbab-7e22-4913-bbab-2144540c1a37","1fd16866-599d-4973-b491-654f49db8fa5","c8ced3af-a261-4c3f-bd08-00a41f94cc8a","a221a462-0225-4a64-81a1-2e36bd688f4c","77bc7cd6-4bcb-47b7-890f-53fd4f3dcb76","9fa14f90-0918-441f-89aa-1ea84976a5a5","4e84e403-9225-46bf-81e6-0aff45b9d0cd","cc788ba7-2c47-44f3-a985-be95a13c9012","48c22edd-bccb-4a9e-bf1a-bbbf9da03319","19b9ef8f-d091-4826-8ab2-10cacec1123a","56539fae-00ee-46c7-9f9e-4bb0caae821e","643a6ee9-9a38-474d-8dd4-d64fc68a98c2","6ba82b41-c38b-49d8-849f-af26644c11ed","4c75a95a-38d9-44bf-905a-cbd12aea3e19"]
+= MetaData.Schema.D20.A2 "PanfilenkoAppealEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

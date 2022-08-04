@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee4aa83b-15c7-4d05-80e3-0525f6f61183",
+    "Name": "PanfilenkoProcess_8a26dd2",
+    "ModifiedOnUtc": "\/Date(1656500078000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнение колонки \"Услуга\" детали \"Билет\"",
+    "DependsOn": []
+  }
+}

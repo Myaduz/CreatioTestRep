@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c983eb6a-2af0-4956-8aec-d9dca51447a4",
+    "Name": "PanfilenkoProcessAppealControl",
+    "ModifiedOnUtc": "\/Date(1658096634000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Контроль заполнения услуги и комментария",
+    "DependsOn": []
+  }
+}

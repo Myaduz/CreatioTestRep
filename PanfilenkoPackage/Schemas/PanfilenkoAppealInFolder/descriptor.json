@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b31b6d2-92fa-4377-a85a-78d78ac964b7",
+    "Name": "PanfilenkoAppealInFolder",
+    "ModifiedOnUtc": "\/Date(1655391771000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Обращение в группе",
+    "DependsOn": []
+  }
+}

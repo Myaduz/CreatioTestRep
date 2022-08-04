@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "82ce03e0-6592-4b6c-86a1-a75bd5f5c93f"
+= MetaData.Schema.A2 "PanfilenkoSchemadc7779e6Detail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "82ce03e0-6592-4b6c-86a1-a75bd5f5c93f"
+= MetaData.Schema.B6 "8aea132e-4f91-2f5b-662b-303a1f814347"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

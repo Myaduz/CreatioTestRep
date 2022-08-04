@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8996f9bc-a8f5-4f2c-a6f0-d1af864d3d96",
+    "Name": "PanfilenkoSchema7c7581dfDetail",
+    "ModifiedOnUtc": "\/Date(1655820906000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Заявки\"",
+    "DependsOn": []
+  }
+}

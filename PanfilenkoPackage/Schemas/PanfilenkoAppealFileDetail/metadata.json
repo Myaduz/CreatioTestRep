@@ -1,0 +1,79 @@
+= MetaData.Schema.UId "89fe3e70-aec5-4ca0-ad53-6f58dec3230d"
+= MetaData.Schema.A2 "PanfilenkoAppealFileDetail"
+= MetaData.Schema.A5 "300fd968-cde2-49db-a6aa-8ec8dc2d92c6"
+= MetaData.Schema.B6 "8aea132e-4f91-2f5b-662b-303a1f814347"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "be64ff93-24f3-4daf-84d9-775ae80b2ae3"
+= MetaData.Schema.EG1.A2 "PanfilenkoAppealFileDetailEventsProcess"
+= MetaData.Schema.EG1.A5 "300fd968-cde2-49db-a6aa-8ec8dc2d92c6"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "f03e2065-41b7-4603-93f4-2cdcee573af9"
++ MetaData.Schema.D22 "36384e63-9890-42f6-926b-9d719adddd62"
++ MetaData.Schema.D2 {
+  "UId": "f03e2065-41b7-4603-93f4-2cdcee573af9",
+  "A2": "PanfilenkoName",
+  "A3": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+  "A4": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "36384e63-9890-42f6-926b-9d719adddd62",
+  "A2": "PanfilenkoPanfilenkoAppeal",
+  "A3": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+  "A4": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "0db2ebc2-7bee-4feb-a720-84da68749111",
+  "E5": false,
+  "E6": true,
+  "E9": true,
+  "E17": "PanfilenkoPanfilenkoAppealId",
+  "E18": "PanfilenkoPanfilenkoAppealPanfilenkoName"
+}
++ MetaData.Schema.D2 {
+  "UId": "fb27e340-9263-4d23-b5ee-357d6e64c770",
+  "A2": "PanfilenkoLookupFile",
+  "A3": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+  "A4": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+  "A5": "300fd968-cde2-49db-a6aa-8ec8dc2d92c6",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "556c5867-60a7-4456-aae1-a57a122bef70",
+  "E6": true,
+  "E17": "PanfilenkoLookupFileId",
+  "E18": "PanfilenkoLookupFileName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","f03e2065-41b7-4603-93f4-2cdcee573af9","36384e63-9890-42f6-926b-9d719adddd62","fb27e340-9263-4d23-b5ee-357d6e64c770"]
+= MetaData.Schema.D20.A2 "PanfilenkoAppealFileDetailEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

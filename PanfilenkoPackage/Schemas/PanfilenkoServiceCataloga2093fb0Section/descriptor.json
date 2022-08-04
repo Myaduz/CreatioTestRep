@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5ca1cf67-2a1c-4e2a-b0f8-5f0bb06968fb",
+    "Name": "PanfilenkoServiceCataloga2093fb0Section",
+    "ModifiedOnUtc": "\/Date(1655399408000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Каталог услуг\"",
+    "DependsOn": []
+  }
+}

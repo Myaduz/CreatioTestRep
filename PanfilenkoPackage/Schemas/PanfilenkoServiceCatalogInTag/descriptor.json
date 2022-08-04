@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bbf9ce91-01a2-4f6c-8a28-58dfabb8a926",
+    "Name": "PanfilenkoServiceCatalogInTag",
+    "ModifiedOnUtc": "\/Date(1655399435000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Каталог услуг",
+    "DependsOn": []
+  }
+}

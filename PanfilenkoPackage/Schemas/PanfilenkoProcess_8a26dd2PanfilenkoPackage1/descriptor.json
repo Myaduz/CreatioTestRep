@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "67e3d726-ed58-42c8-985a-8e9c7a7ac79e",
+    "Name": "PanfilenkoProcess_8a26dd2PanfilenkoPackage1",
+    "ModifiedOnUtc": "\/Date(1656677112000)\/",
+    "Parent": {
+      "UId": "ee4aa83b-15c7-4d05-80e3-0525f6f61183",
+      "Name": "PanfilenkoProcess_8a26dd2"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнение колонки \"Услуга\" детали \"Билет\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2caff163-cfb0-4bbc-a3b3-13478e6ef63b",
+    "Name": "PanfilenkoPanfilenkoTicketse53e3888Page",
+    "ModifiedOnUtc": "\/Date(1655839193000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Билеты\"",
+    "DependsOn": []
+  }
+}

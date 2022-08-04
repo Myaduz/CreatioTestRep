@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "71bdd3fd-e1e2-46e4-af79-0e2081292171",
+    "Name": "PanfilenkoSchema66e32522Detail",
+    "ModifiedOnUtc": "\/Date(1657064347000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Файлы и примечания",
+    "DependsOn": []
+  }
+}

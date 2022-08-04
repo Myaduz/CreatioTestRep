@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "82ce03e0-6592-4b6c-86a1-a75bd5f5c93f",
+    "Name": "PanfilenkoSchemadc7779e6Detail",
+    "ModifiedOnUtc": "\/Date(1655891431000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Каталог услуг\"",
+    "DependsOn": []
+  }
+}

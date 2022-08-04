@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca2b6e80-d305-4e52-a62e-04958e897425",
+    "Name": "PanfilenkoSchemafb4aa6ebDetail",
+    "ModifiedOnUtc": "\/Date(1656062669000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Билет",
+    "DependsOn": []
+  }
+}

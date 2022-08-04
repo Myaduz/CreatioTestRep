@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "89fe3e70-aec5-4ca0-ad53-6f58dec3230d",
+    "Name": "PanfilenkoAppealFileDetail",
+    "ModifiedOnUtc": "\/Date(1657064987000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файлы и примечания",
+    "DependsOn": []
+  }
+}

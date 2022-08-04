@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bc7a0ba1-94fe-43b4-8246-71121de4234c",
+    "Name": "PanfilenkoAppealVisa",
+    "ModifiedOnUtc": "\/Date(1657466815000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Визы в разделе Обращение",
+    "DependsOn": []
+  }
+}

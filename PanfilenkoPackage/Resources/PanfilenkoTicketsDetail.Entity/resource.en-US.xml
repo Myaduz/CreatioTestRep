@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Билет" />
+			<Item Name="Columns.PanfilenkoDelete2.Caption" Value="Услуга" />
+			<Item Name="Columns.PanfilenkoName.Caption" Value="Name" />
+			<Item Name="Columns.PanfilenkoPanfilenkoAppeal.Caption" Value="Обращение" />
+			<Item Name="Columns.PanfilenkoTicketCategory.Caption" Value="Категория" />
+			<Item Name="Columns.PanfilenkoTicketCost.Caption" Value="Стоимость билета" />
+			<Item Name="Columns.PanfilenkoTicketOwner.Caption" Value="Владелец" />
+			<Item Name="Columns.PanfilenkoTicketsServiceCatalog.Caption" Value="Услуги" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

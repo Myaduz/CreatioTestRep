@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a9924412-cf49-47c7-9c77-9d283dfe701c",
+    "Name": "PanfilenkoAppealTag",
+    "ModifiedOnUtc": "\/Date(1655391775000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Обращение",
+    "DependsOn": []
+  }
+}

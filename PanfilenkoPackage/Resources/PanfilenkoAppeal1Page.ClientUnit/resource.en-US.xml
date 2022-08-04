@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Обращение&quot;" />
+			<Item Name="LocalizableStrings.FileDetailAppealDetailCaptionOnPage.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.PanfilenkoAppealFileDetailAddDetailCaptionOnPage.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.PanfilenkoAppealTicketsDetailCaptionOnPage.Value" Value="Билеты" />
+			<Item Name="LocalizableStrings.PanfilenkoSchemab800a013Detail13ca658bDetailCaptionOnPage.Value" Value="Билеты" />
+			<Item Name="LocalizableStrings.PanfilenkoSchemad8b460dfDetail1bbae6bcDetailCaptionOnPage.Value" Value="Билеты" />
+			<Item Name="LocalizableStrings.PanfilenkoSchemad8b460dfDetail4a3052e8DetailCaptionOnPage.Value" Value="Билеты" />
+			<Item Name="LocalizableStrings.PanfilenkoTicketDetailCaptionOnPage.Value" Value="Билет" />
+			<Item Name="LocalizableStrings.PanfilenkoTicketDetailDetailCaptionOnPage.Value" Value="Билеты*" />
+			<Item Name="LocalizableStrings.PanfilenkoTicketsDetailDetailCaptionOnPage.Value" Value="Билеты" />
+			<Item Name="LocalizableStrings.TabMainTabCaption.Value" Value="Основное" />
+		</Items>
+	</Group>
+</Resources>
